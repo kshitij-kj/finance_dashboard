@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/finance_db
     username: postgres
-    password: kshitijJHA9755#
+    password: Your_password
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
